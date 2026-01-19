@@ -1,3 +1,7 @@
+# Disclaimer:
+This tool is for Educational and Study Purposes only. It can be used by students looking to understand networking deeply or for other legal and ethical purposes. The owner is not responsible for any act of malice and digital harm done with this tool.
+
+
 ## Building and Installation
 
 ### Installation:

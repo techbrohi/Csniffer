@@ -1,0 +1,72 @@
+# Compiled objects
+*.o
+*.so
+*.a
+*.dll
+*.dylib
+
+# Executables
+sniffer
+packetsniffer
+test-sniffer
+*.exe
+*.out
+
+# Build directories
+build/
+dist/
+*.dSYM/  # macOS debug symbols
+
+# Development files
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+*.code-workspace
+
+# Project specific
+*.pcap        # Capture files
+capture.pcap  # Specific capture file names
+output.pcap
+*.log         # Log files
+debug.log
+
+# Dependencies
+deps/
+vendor/
+
+# Temporary files
+tmp/
+temp/
+
+# Editor backup files
+*~
+\#*\#
+.\#*
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeUserPresets.json
+
+# Autotools
+autom4te.cache/
+aclocal.m4
+compile
+config.guess
+config.h
+config.h.in
+config.log
+config.status
+config.sub
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+*.in~

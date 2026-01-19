@@ -3,8 +3,8 @@
 ### Installation:
 ```bash
 # Clone and build
-git clone https://github.com/yourusername/packet-sniffer
-cd packet-sniffer
+git clone https://github.com/techbrohi/Csniffer
+cd Csniffer
 
 # Build library and sniffer
 make

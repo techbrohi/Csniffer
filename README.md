@@ -1,6 +1,6 @@
 ## Building and Installation
 
-### Option 1: System Installation (Recommended)
+### Installation:
 ```bash
 # Clone and build
 git clone https://github.com/yourusername/packet-sniffer
